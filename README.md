@@ -3,7 +3,7 @@
 A Python tool designed to automatically identify and break over a dozen classical ciphers using statistical and heuristic methods.
 
 ### Key Features
-- **Heuristic-Based Analysis**: Uses statistical tests (Index of Coincidence, Kasiski Examination) to intelligently determine the most likely cipher type before attempting to solve.
+- **Heuristic-Based Analysis**: Uses statistical tests (Index of Coincidence, Kasiski Examination) to intelligently determine the most likely cipher type before attempting to solve. The thought process is explained to the user.
 - **Broad Cipher Support**: Includes solvers for over 12 classical ciphers, including substitution, transposition, Vigenère, Beaufort, and Hill ciphers.
 - **Advanced Search**: Employs heuristic search techniques like simulated annealing to solve substitution, two-square and four-square ciphers.
 
